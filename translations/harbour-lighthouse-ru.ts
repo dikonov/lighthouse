@@ -16,7 +16,7 @@
     <message>
         <location filename="../qml/pages/About.qml" line="54"/>
         <source>by Aleš Katona and Lavaux Gilles.</source>
-        <translation>by Aleš Katona and Lavaux Gilles.</translation>
+        <translation>, авторы Aleš Katona и Lavaux Gilles.</translation>
     </message>
     <message>
         <location filename="../qml/pages/About.qml" line="65"/>
@@ -66,7 +66,7 @@
     <message>
         <location filename="../qml/pages/About.qml" line="205"/>
         <source>Lighthouse is free software licensed under the GPL v3 available at &lt;a href=&apos;https://github.com/almindor/lighthouse&apos;&gt;github&lt;/a&gt;.                Device controls DBus code inspired by &lt;a href=&apos;https://github.com/ejjoman/SailfishReboot&apos;&gt;SailfishReboot&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lighthouse - свободная программа, распространяемая на условия GPL v3 и доступная по адресу &lt;a href=&apos;https://github.com/almindor/lighthouse&apos;&gt;github&lt;/a&gt;.                Источник кода для управления устройствами DBus - &lt;a href=&apos;https://github.com/ejjoman/SailfishReboot&apos;&gt;SailfishReboot&lt;/a&gt;.</translation>
     </message>
 </context>
 <context>
@@ -108,13 +108,13 @@
         <location filename="../qml/pages/Details.qml" line="64"/>
         <source>CPU</source>
         <comment>details CPU indicator name</comment>
-        <translation type="unfinished">Процессор</translation>
+        <translation>Процессор</translation>
     </message>
     <message>
         <location filename="../qml/pages/Details.qml" line="70"/>
         <source>Memory</source>
         <comment>details Memory indicator name</comment>
-        <translation type="unfinished">Память</translation>
+        <translation>Память</translation>
     </message>
     <message>
         <location filename="../qml/pages/Details.qml" line="76"/>
@@ -124,7 +124,7 @@
     <message>
         <location filename="../qml/pages/Details.qml" line="87"/>
         <source>Permission denied</source>
-        <translation type="unfinished"></translation>
+        <translation>Нет доступа</translation>
     </message>
 </context>
 <context>
@@ -240,7 +240,7 @@
     <message>
         <location filename="../qml/pages/Phone.qml" line="29"/>
         <source>Device Controls</source>
-        <translation type="unfinished"></translation>
+        <translation>Управление устройством</translation>
     </message>
     <message>
         <location filename="../qml/pages/Phone.qml" line="38"/>
@@ -309,7 +309,7 @@
     <message>
         <location filename="../qml/pages/Settings.qml" line="31"/>
         <source>Settings</source>
-        <translation>Настройки</translation>
+        <translation>Настройка</translation>
     </message>
     <message>
         <location filename="../qml/pages/Settings.qml" line="54"/>
@@ -337,7 +337,7 @@
     <message>
         <location filename="../qml/pages/Summary.qml" line="36"/>
         <source>Device Controls</source>
-        <translation type="unfinished"></translation>
+        <translation>Управление устройством</translation>
     </message>
     <message>
         <location filename="../qml/pages/Summary.qml" line="40"/>
